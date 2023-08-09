@@ -1,1 +1,1 @@
-add_executable(test main.cpp)
+add_executable(clang-hook main.cpp)
